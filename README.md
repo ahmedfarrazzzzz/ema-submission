@@ -1,6 +1,6 @@
 # Offboarding Analyst
 
-**Live demo:** [add your link here]
+**Live demo:** https://ahmedfarrazzzzz.github.io/ema-submission/
 
 When someone leaves a company, HR, IT, Payroll and their manager each own a piece of the exit, and nobody owns the whole thing. So access stays open for weeks, the final settlement drags on, and the person who left ends up chasing their relieving letter months later.
 
@@ -13,10 +13,6 @@ This is a working prototype of an AI employee that owns the whole exit. You give
 - prepares the letters, payslips and tax documents and sends them to the person's personal email
 
 A human approves every step that touches money or access. The agent does the legwork; people make the calls.
-
-## Why I built it
-
-I put this together as my answer to Ema's APM case prompt. Ema builds "AI employees" for HR, IT and Finance, and an exit touches all three. When I first pitched the idea, someone at Ema asked me, fairly, whether it was just a checklist. This prototype is my answer: it doesn't list the steps, it does them.
 
 It's built for India first (the 2-working-day settlement rule under the Code on Wages, gratuity, Form 16), but the policy library is the only part that's country-specific.
 
@@ -108,6 +104,7 @@ Plain HTML, CSS and JavaScript. No framework, no dependencies.
 
 ## A note
 
-This is an independent concept I made for Ema's APM case. It isn't an Ema product and isn't affiliated with or endorsed by Ema. If you're from Ema and want to talk about it, I'd love to hear what I got wrong.
+It isn't an Ema product and isn't affiliated with or endorsed by Ema. If you're from Ema and want to talk about it, I'd love to hear what I got wrong.
 
 Ahmed Faraz
++91-8506023019
